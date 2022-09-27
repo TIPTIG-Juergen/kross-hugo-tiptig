@@ -10,7 +10,7 @@ weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = "3"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
