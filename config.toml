@@ -22,7 +22,7 @@ weight = 5
 [[menu.main]]
 URL = "tiptig"
 name = "TIP TIG"
-weight = "2"
+weight = "1"
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
