@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = "tiptig"
-name = "TIP TIG"
-weight = "2"
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
@@ -23,6 +19,10 @@ weight = 4
 URL = "contact"
 name = "Contact"
 weight = 5
+[[menu.main]]
+URL = "tiptig"
+name = "TIP TIG"
+weight = "2"
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
