@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
-URL = ""
+URL = "tiptig"
 name = "TIP TIG"
 weight = "2"
 [[menu.main]]
