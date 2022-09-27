@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: geilheit
+    progress: 99%
+    color: red
   - title: Web Design
     progress: 90%
     color: "#fdb157"
